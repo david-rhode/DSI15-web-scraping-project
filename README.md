@@ -1,4 +1,5 @@
 **General Assembly Data Science Immersive**
+\
 **Web Scraping Project (completed January 2021)**
 
 The goal of this project was to compile information and use it to train a machine learning model to accurately predict the salaries of data-related jobs in the UK market. The code is housed in a single notebook, which also contains instructions and commentary in markdown.
